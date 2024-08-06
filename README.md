@@ -1,16 +1,15 @@
-## Hi there 👋
+### Welcome to my profile! 🦇
 
-<!--
-**cacluis/cacluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My name is Luis Ziggiatti
 
-Here are some ideas to get you started:
+- I'm a brazilian student
+ 
+- I'm studying with alura
+ 
+- Gonna develop myself in javascript 🤓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### You can contact me 🔽
+
+ gmail: luisfelipe.ziggiatti@gmail.com
+ 
+ instagram: draculipe
