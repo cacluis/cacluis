@@ -4,7 +4,7 @@
 
 - I'm a brazilian student 🇧🇷
  
-- I'm studying with [https://www.alura.com.br/](alura) 📕
+- I'm studying with [alura](https://www.alura.com.br/) 📕
  
 - Gonna develop myself in javascript 🤓
 
